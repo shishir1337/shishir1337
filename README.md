@@ -1,11 +1,13 @@
 [![MasterHead](https://camo.githubusercontent.com/700f2ecd2ca652d02ff0705ebdf8c4ee71dfbbe0d67fc02950f84eb251242ab9/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f666c6578692d636f64696e672e61707073706f742e636f6d2f6f2f64656d706769372d35323066386435662d363364342d343435332d383832322d6462633134396165323766382e6769663f616c743d6d6564696126746f6b656e3d39316330633762322d393363332d343032392d623031312d316138373033633537333064)](https://www.shishir1337.com)
+
 <h1 align="center">Hi 👋, I'm MD. SHISHIR AHMED</h1>
 <h3 align="center">A passionate full-stack developer from Bangladesh</h3>
+
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shishir1337&label=Profile%20views&color=0e75b6&style=flat" alt="shishir1337" /> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="left"> <a href="https://twitter.com/shishir133" target="blank"><img src="https://img.shields.io/twitter/follow/shishir133?logo=twitter&style=for-the-badge" alt="shishir133" /></a> </p>
 
 - 🔭 I’m currently working on Hatch Apps [No Code Builder](https://www.hatchapps.com/)
 
@@ -25,10 +27,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/shishir1337" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="shishir1337" height="30" width="40" /></a>
+<a href="https://twitter.com/shishir133" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shishir133" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shishir1337" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shishir1337" height="30" width="40" /></a>
-<a href="https://codesandbox.com/shishir1337" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="shishir1337" height="30" width="40" /></a>
 <a href="https://fb.com/mdshishirahmed1337" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mdshishirahmed1337" height="30" width="40" /></a>
+<a href="https://instagram.com/shishir.1337" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shishir.1337" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/@shishir1337" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@shishir1337" height="30" width="40" /></a>
 </p>
 
