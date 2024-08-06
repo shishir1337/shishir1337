@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/shishir133" target="blank"><img src="https://img.shields.io/twitter/follow/shishir133?logo=twitter&style=for-the-badge" alt="shishir133" /></a> </p>
 
-- 🔭 I’m currently working on Hatch Apps [No Code Builder](https://www.hatchapps.com/)
+- 🔭 I’m currently working on Rize Capital [Rize Capital](https://rizecap.com/)
 
 - 🌱 I’m currently learning **MERN Development**
 
