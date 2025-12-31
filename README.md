@@ -1,7 +1,7 @@
 ![Header](./github-header-image.png)
 
 <h1 align="center">Hi 👋, I'm MD. SHISHIR AHMED</h1>
-<h3 align="center">A passionate full-stack developer from Bangladesh</h3>
+<h3 align="center">A passionate full-stack engineer from Bangladesh</h3>
 
 <img align="right" alt="coding" width="400" src="https://media.licdn.com/dms/image/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/0/1674617947228?e=2147483647&v=beta&t=FTU_isQ6VYfV5D_ueFHPWvT8ZqgDeJG3yr8Mi8lpfk0" />
 
@@ -11,14 +11,14 @@
 
 ## 🚀 About Me
 
-- 🔭 I'm currently working at [Rize Capital](https://rizecap.com/)
-- 🌱 I'm currently learning **MERN Development**
+- 🔭 I'm currently working at [OutNet](https://outnet.it.com/)
+- 🌱 I'm currently working in **Full-Stack MERN Development**
 - 👨‍💻 Portfolio: [shishir1337.com](https://www.shishir1337.com)
 - 📝 I write articles on [my blog](https://www.shishir1337.com/blog/)
-- 💬 Ask me about **Python, Full-Stack Development, Web Applications**
+- 💬 Ask me about **Next.js, Full-Stack Development, Web Applications**
 - 📫 Reach me: **mdshishirahmed811@gmail.com**
 - 📄 [View my resume](https://www.shishir1337.com/resume/)
-- ⚡ Fun fact: **I Love New Challenges**
+- ⚡ My quote : **Explore Yourself**
 
 <br clear="right"/>
 
@@ -87,7 +87,7 @@
   </tr>
   <tr>
     <td width="50%" colspan="2">
-      <h3 align="center">GTE Goyna</h3>
+      <h3 align="center">G TE Goyna</h3>
       <p align="center">
         <a href="https://gtegoyna.com.bd/" target="_blank">
           <img src="https://img.shields.io/badge/🌐_Visit_Site-673AB7?style=for-the-badge" alt="Visit Site"/>
@@ -286,17 +286,11 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shishir1337&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-</div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shishir1337&show_icons=true&locale=en&layout=compact" alt="shishir1337" /></p>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shishir1337&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</div>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shishir1337&show_icons=true&locale=en" alt="shishir1337" /></p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shishir1337&show_icons=true&theme=radical&layout=compact&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-</div>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shishir1337&" alt="shishir1337" /></p>
 
 ## 🤝 Connect with Me
 
